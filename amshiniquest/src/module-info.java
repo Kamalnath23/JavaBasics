@@ -1,0 +1,3 @@
+module amshiniquest {
+	exports amshiniquest;
+}

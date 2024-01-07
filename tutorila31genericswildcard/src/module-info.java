@@ -1,0 +1,2 @@
+module tutorila31genericswildcard {
+}

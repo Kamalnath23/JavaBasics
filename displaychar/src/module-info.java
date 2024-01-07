@@ -1,0 +1,2 @@
+module displaychar {
+}

@@ -1,0 +1,2 @@
+module tutorial28casting {
+}

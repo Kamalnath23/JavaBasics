@@ -1,0 +1,4 @@
+default 
+public class application {
+
+}
